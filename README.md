@@ -9,3 +9,4 @@
 |---|---|
 |RabbitMQ|[AlarmSystem](https://velog.io/@eunseo2/TIL-11-Interface-JAVA)
 |Traffic|[Cache](https://github.com/eunseo2/TIL/blob/main/Cache%20%EC%A0%81%EC%9A%A9.md)
+|Traffic|[Replication](https://github.com/eunseo2/TIL/blob/main/Replication%20%EC%A0%81%EC%9A%A9.md)
