@@ -7,7 +7,7 @@
 
 분류|링크|
 |---|---|
-|RabbitMQ|[AlarmSystem](https://velog.io/@eunseo2/TIL-11-Interface-JAVA)
+|RabbitMQ|[AlarmSystem](https://github.com/eunseo2/AlarmSystem)
 |Traffic|[Cache](https://github.com/eunseo2/TIL/blob/main/Cache%20%EC%A0%81%EC%9A%A9.md)
 |Traffic|[Replication](https://github.com/eunseo2/TIL/blob/main/Replication%20%EC%A0%81%EC%9A%A9.md)
 |Traffic|[Lock](https://github.com/eunseo2/TIL/blob/main/Lock%20%EC%A0%81%EC%9A%A9.md)
