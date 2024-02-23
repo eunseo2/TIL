@@ -13,4 +13,5 @@
 |RabbitMQ|[AlarmSystem](https://github.com/eunseo2/AlarmSystem)
 |Spring|[DI/IOC](https://github.com/eunseo2/TIL/blob/main/DI%2CIOC.md)
 |Spring|[AOP](https://github.com/eunseo2/TIL/blob/main/AOP.md)
-|Architecture|[Strategy Pattern](https://github.com/eunseo2/TIL/blob/main/Strategy%20Pattern.md)
+|Design pattern|[Strategy Pattern](https://github.com/eunseo2/TIL/blob/main/Strategy%20Pattern.md)
+|Design pattern|[Observer Pattern](https://github.com/eunseo2/TIL/blob/main/Observer%20Pattern.md)
